@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Summarizer</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
